@@ -34,7 +34,7 @@ La aplicación está organizada por paquetes siguiendo una separación lógica d
 ## Ejecución
 1. Clonar el repositorio
 2. Abrir el proyecto en IntelliJ IDEA o Eclipse
-3. Ejecutar la clase AppMetricas
+3. Ejecutar la clase `AppMetricas`
 
 ## Contexto
 Este proyecto forma parte del proceso de aprendizaje de Java backend y está orientado a fortalecer la gestión de errores y la organización del código, habilidades fundamentales para el desarrollo de aplicaciones backend más complejas.
@@ -43,7 +43,3 @@ Este proyecto forma parte del proceso de aprendizaje de Java backend y está ori
 - Incorporar persistencia de datos
 - Adaptar la lógica a una arquitectura REST con Spring Boot
 - Centralizar el manejo de excepciones
-
-
-
-
